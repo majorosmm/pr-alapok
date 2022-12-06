@@ -1,0 +1,5 @@
+print("Majoros máté Martin")
+print()
+print('Majoros Máté Martin')
+print(35)
+print(35.0)
